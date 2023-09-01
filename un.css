@@ -1,0 +1,166 @@
+
+
+body{
+    background-color: rgb(209, 211, 228);
+
+}
+h1 {
+    color: rgb(19, 10, 92);
+    font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
+}
+#pprincipal{
+    margin-left: auto;
+    margin-right: auto;
+    width: 650px;
+    text-align: justify;
+    hyphens: auto;
+    background-color: rgb(167, 198, 235);
+    border: 10px solid rgb(167, 198, 235);
+   font-family: Arial, Helvetica, sans-serif; 
+}
+p{
+    margin-left: auto;
+margin-right: auto;
+width: 650px;
+text-align: justify;
+hyphens: auto;
+
+
+}
+
+
+table{
+    width: max-content;
+    align-content: center;
+}
+.aphtml {
+    color: white;
+    margin-left: 600px;
+    margin-right: auto ;  
+    margin-top: 60px;
+    padding: none
+;
+}
+
+.apcss {
+    color: white;
+    margin-right: 180px ; 
+    margin-left: auto; 
+    margin-top: 60px;
+    inline-size: none;
+}
+.cuadrado1 {
+    width: 400px;          
+    height: 400px;       
+    background: rgb(255, 248, 250);     
+    border: 1px solid #00000000; 
+float: left;
+margin-left: 200px;
+border-radius: 5%;
+margin-top: 40px;
+box-shadow: -5px 5px #888888;
+
+margin-bottom: 20px;
+
+}
+.cuadrado2 {
+    width: 400px;          
+    height: 400px;          
+    background: rgb(255, 248, 250);        
+    border: 1px solid #00000000; 
+ float: right;
+ margin-right: 200px;
+ border-radius: 5%;
+ margin-top: 40px;
+ box-shadow: 5px 5px #888888;
+
+ margin-bottom: 20px;
+
+}
+.csstext{
+ width: 300px;
+}
+.htmltext{
+    width: 300px;
+}
+
+.titulosbox {
+    width: 300px;
+    margin: auto;
+    margin-top: -5%;
+    text-align: center;
+    float: initial;
+    font-family: Helvetica, sans-serif;
+    font-size: 120%;
+    background-color: rgb(26, 63, 133);
+    padding: 3%;
+    box-shadow: 5px 5px #5c6ca3;
+    color: white;
+}
+
+.cuadrado1 > .titulosbox{
+    box-shadow: -5px 5px #5c6ca3;
+}
+
+#imgcss{
+    float: right;
+    width: 100px;
+    margin-right: 150px;
+    margin-top: 15px;
+   
+    
+}
+#imghtml{
+    float: left;
+    width: 100px;
+    margin-left: 150px;
+    margin-top: 15px;
+   
+}
+
+.recta1 {
+    width: 160px;
+    height: 200px;
+    background-color: rgb(255, 248, 250);
+    float: right;
+ margin-right:-418px;
+ margin-top: -120px;
+ border: 1px solid #7e505000;
+ border-collapse: separate;
+ border-top-right-radius: 5%;
+ border-bottom-right-radius: 5%;
+ box-shadow: 5px 5px #5c6ca3;
+
+}
+.recta2 {
+    width: 160px;
+    height: 200px;
+    background-color: rgb(255, 248, 250);
+    float: left;
+ margin-left:-418px;
+ margin-top: -120px;
+ border: 1px solid #7e505000;
+ border-collapse: separate;
+ border-top-left-radius: 5%;
+ border-bottom-left-radius: 5%;
+ box-shadow: -5px 5px #5c6ca3;
+
+}
+
+.misjob {
+    width: 120px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+a{
+   margin-left: -20px;
+ font-family: Arial, Helvetica, sans-serif;
+ list-style: none;
+
+}
+ul{
+   list-style: none;
+}
+
